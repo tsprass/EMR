@@ -1,7 +1,7 @@
 # EMR
 Figuras da apresentação
 
-
+```r
 -----------------------------------------------
 Call:
 "BARMAX(1,1) model"
@@ -22,7 +22,9 @@ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’
 
 Residual standard error: 0.04483 on 495 degrees of freedom
 -----------------------------------------------
+```
 
+```r
 -----------------------------------------------
 Call:
 "BARMAX(1,1) model"
@@ -43,5 +45,6 @@ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’
 
 Residual standard error: 0.061 on 495 degrees of freedom
 -----------------------------------------------
+```
 
 
